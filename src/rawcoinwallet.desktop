@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Rawcoin
+Name[uk]=Rawcoin
+Name[ru]=Rawcoin
+Name[pl]=Rawcoin
+Name[be]=Rawcoin
+Comment=Rawcoin wallet
+Comment[uk]=Rawcoin wallet
+Comment[ru]=Rawcoin wallet
+Comment[pl]=Rawcoin wallet
+Comment[be]=Rawcoin wallet
+Exec=rawcoin
+Terminal=false
+Type=Application
+Icon=rawcoin
+MimeType=x-scheme-handler/rawcoin;
+Categories=Office;Finance;
+Version=0.2.7

@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "rawcoin")
+set(CN_CURRENCY_DISPLAY_NAME "Rawcoin")
+set(CN_CURRENCY_TICKER "XRC")
+set(CN_VERSION 1.0.0)
