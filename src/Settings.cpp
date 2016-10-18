@@ -87,7 +87,7 @@ void Settings::load() {
   }
 
   QStringList defaultPoolList;
-  defaultPoolList << "pool.rawcoin.co:3333" << "pool2.democats.org:45570";
+  defaultPoolList << "xrc.pool.rawcoin.co:3333" << "pool2.democats.org:45570";
   if (!m_settings.contains(OPTION_MINING_POOLS)) {
     setMiningPoolList(QStringList() << defaultPoolList);
   } else {
